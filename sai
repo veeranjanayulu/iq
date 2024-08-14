@@ -1,2 +1,2 @@
-cat gadsby.txt | grep -i E
+cat gadsby.txt | grep -i d
 cat /etc/passwd | grep -i ubuntu
